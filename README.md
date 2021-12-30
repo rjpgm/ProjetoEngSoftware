@@ -18,3 +18,13 @@ In vel mollis dolor. Curabitur nec magna in lectus rhoncus facilisis sed ultrice
 - [ ] Descobrir como abrir o servidor por lá.
 - [ ] Começar a desenvolver o front-end da aplicação.
 - [ ] Outros --> completar aqui
+
+
+## Considerações finais
+
+Agradecemos pela compreensão e desejamos uma boa nota para sermos aprovados.
+
+* [Link 1](https://www.youtube.com/watch?v=EqCQc7_23So&ab_channel=J%C3%A9ssicaOliveira)
+* [Link 2](https://www.youtube.com/watch?v=KwM4yOwMls4&ab_channel=30PRAUM)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
