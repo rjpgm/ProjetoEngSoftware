@@ -1,0 +1,5 @@
+caso dê problema no require(linha 1 de server.ts),
+ chamar 'npm install @types/node --save-dev' no terminal
+
+
+pra rodar, 'cd http' e depois 'node server.ts'
