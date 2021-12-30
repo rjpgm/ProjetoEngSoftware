@@ -1,10 +1,10 @@
-# ProjetoEngSoftwareJJJ
 # Projeto Engenharia de Software 2021.1
 
 ## Discentes:
 * Gabriel Caminha :trollface:
 * Arthur Falcão :trollface:
 * Rodrigo Pascaretta :trollface:
+* Pedro Calábria :trollface:
 
 ## Sobre o projeto: 
 
@@ -15,7 +15,7 @@ In vel mollis dolor. Curabitur nec magna in lectus rhoncus facilisis sed ultrice
 ## Roadmap
 
 - [x] Criar reposítório GitPod
-- [ ] Descobrir como abrir o servidor por lá.
+- [x] Descobrir como abrir o servidor por lá.
 - [ ] Começar a desenvolver o front-end da aplicação.
 - [ ] Outros --> completar aqui
 
