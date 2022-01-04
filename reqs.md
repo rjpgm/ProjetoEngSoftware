@@ -4,8 +4,19 @@
 
 ### Lista de Requisitos Funcionais
 
-- RF01 - Inserir TCC
-- RF02 - Remover TCC
+- RF01 - Realizar Login
+- RF02 - Login Orientador
+- RF03 - Login Aluno
+- RF04 - Login Administrador
+- RF05 - Organizar Orientacao
+- RF06 - Acompanhar Trabalhos
+- RF07 - Avaliar Trabalhos
+- RF08 - Gerar Ata de Banca
+- RF09 - Gerar Certificado dos Professores
+- RF010 -Gerar Folhas de Aprovação
+- RF011 - Gerar cronograma das bancas
+- RF012 - Enviar Arquivo
+- RF013 - Receber Arquivo
 
 
 ### Diagrama de Casos de Uso
@@ -28,7 +39,6 @@ package Orientacao{
     usecase "Organizar Orientacao" as UC5
     usecase "Acompanhar Trabalhos" as UC6
     usecase "Avaliar Trabalhos" as UC7
-    usecase "Escolher Co-Orientador" as UC14
 }
 package Documentacao{
     usecase "Gerar Ata de Banca" as UC8
@@ -55,7 +65,6 @@ UC13 <-- ori
 ori --> UC5
 ori --> UC6
 ori --> UC7
-ori --> UC14
 @enduml
 ```
 
@@ -63,6 +72,17 @@ ori --> UC14
 
 - [UC_01](reqs_UC01.md)
 - [UC_02](reqs_UC02.md)
+- [UC_03](reqs_UC01.md)
+- [UC_04](reqs_UC01.md)
+- [UC_05](reqs_UC01.md)
+- [UC_06](reqs_UC01.md)
+- [UC_07](reqs_UC01.md)
+- [UC_08](reqs_UC01.md)
+- [UC_09](reqs_UC01.md)
+- [UC_010](reqs_UC01.md)
+- [UC_011](reqs_UC01.md)
+- [UC_012](reqs_UC01.md)
+- [UC_013](reqs_UC01.md)
 
 
 ## Requisitos não-funcionais
